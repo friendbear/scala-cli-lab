@@ -1,2 +1,6 @@
 *.class
 *.log
+.bsp
+.bazelbsp
+scala-cli-project-in-vscode/.scala-build/.bloop
+scala-cli-project-in-vscode/.scala-build
